@@ -39,7 +39,3 @@ then we get response
 - layered System -> server used without the client knowing it
 - uniform interface -> resrc are identified in request , transferred data is decoupled from db schema
 - code on demand -> code that could be transfered
-
-```
-
-```
