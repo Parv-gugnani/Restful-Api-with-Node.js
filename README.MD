@@ -17,7 +17,7 @@ this is also example of resfulapi
 
 # Restful api are stateless backends
 
-it means server dont store any info it just wokr on requests
+` it means server dont store any info it just wokr on requests
 
 //get
 //post
@@ -28,7 +28,7 @@ and by urls we send request and get response
 
 //JSON
 now we send AJAX request(http)
-then we get response
+then we get response `
 
 # Resful Constraints
 
